@@ -2,6 +2,8 @@ package com.gec.demo;
 
 public interface UserDao {
 
-	//第一次提交git
-	void addUser();
+	//分支branch的方法
+	void deleteUser();
+	
+	
 }
